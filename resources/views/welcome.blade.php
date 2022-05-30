@@ -87,7 +87,12 @@
                 <div class="links">
                     <a href="{{ url('/admin/posts') }}">Blog</a>
                 </div>
+                
             </div>
         </div>
+        <div id="root">    
+            
+        </div>
+        <script src="{{ asset("js/app.js")}}"></script>
     </body>
 </html>
